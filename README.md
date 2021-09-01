@@ -13,7 +13,7 @@
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="kitten-cat" src="https://discord.com/channels/877628936559951942/880807870147481691/882662537571749948/kitten-cat.gif">
+  <img height="150em" align="right" alt="kitten-cat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 </div>
   
 ##
