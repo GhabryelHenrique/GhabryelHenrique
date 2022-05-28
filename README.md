@@ -5,9 +5,9 @@
 ##  Hi, I’m Ghabryel Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 - 👀 I'm interested in programming and technological innovations
-- 🌱 I'm currently learning Python for now but I'm looking to specialize in other languages too
+- 🌱 I'm currently learning Python and web programming using the Angular framework
 - 💞️ I'm looking to collaborate in making people's lives simpler with the help of machine learning and IOT
-- 📫 How to reach me: Twitter: @ghabs034, instagram: ghabryel___ and e-mail: ghabryelhenrique@hotmail.com
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ghabryel-henrique-27298919a/ and e-mail: ghabryelhenrique@hotmail.com
 
  <div>
   <a href="https://github.com/GhabryelHenrique">
