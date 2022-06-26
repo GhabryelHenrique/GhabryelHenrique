@@ -2,7 +2,7 @@
  <img height="250em" align="right" alt="kitten-cat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 </div>
 
-##  Hi, I’m Ghabryel Henrique <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h2>
+##  Hi, I’m Ghabryel Henrique <img height="30em" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 - 👀 I'm interested in programming and technological innovations
 - 🌱 I'm currently learning Python and web programming using the Angular framework
