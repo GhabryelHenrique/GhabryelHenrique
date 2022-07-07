@@ -1,11 +1,13 @@
-<div>
- <img height="250em" align="right" alt="kitten-cat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
-</div>
-
 ##  Hi, I’m Ghabryel Henrique <img height="30em" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
+<br>
+
+<div>
+ <img height="250em" align="right" alt="kitten-cat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 </div>
 
 - 👀 I'm interested in programming and technological innovations
