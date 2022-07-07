@@ -4,6 +4,10 @@
 
 ##  Hi, I’m Ghabryel Henrique <img height="30em" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
 - 👀 I'm interested in programming and technological innovations
 - 🌱 I'm currently learning Python and web programming using the Angular framework
 - 💞️ I'm looking to collaborate in making people's lives simpler with the help of machine learning and IOT
