@@ -6,10 +6,6 @@
 
 <br>
 
-<div>
- <img height="250em" align="right" alt="kitten-cat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
-</div>
-
 - 👀 I'm interested in programming and technological innovations
 - 🌱 I'm currently learning Python and web programming using the Angular framework
 - 💞️ I'm looking to collaborate in making people's lives simpler with the help of machine learning and IOT
@@ -17,8 +13,9 @@
 
  <div>
   <a href="https://github.com/GhabryelHenrique">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=GhabryelHenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhabryelHenrique&layout=compact&&langs_count=7&theme=dark"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=GhabryelHenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140rem" src="https://github-readme-streak-stats.herokuapp.com/?user=GhabryelHenrique&theme=tokyonight" alt="Ghabryel most used frameworks"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhabryelHenrique&layout=compact&&langs_count=7&theme=tokyonight"/>
 </div>
  
  <div style="display: inline_block"><br>
@@ -31,6 +28,10 @@
   <img align="center" alt="Ghabryel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
  </div>
+<br>
+<!-- <div>
+ <img height="250em" align="right" alt="kitten-cat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+</div> -->
   
 ## Contact :iphone:
  
