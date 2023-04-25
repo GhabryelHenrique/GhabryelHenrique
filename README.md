@@ -23,15 +23,17 @@
   <img align="center" alt="Ghabryel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ghabryel-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Ghabryel-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
+  <img align="center" alt="Ghabryel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Ghabryel-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Ghabryel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Ghabryel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   
 
  </div>
 <br>
-<!-- <div>
+<div>
  <img height="250em" align="right" alt="kitten-cat" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
-</div> -->
+</div>
   
 ## Contact :iphone:
  
