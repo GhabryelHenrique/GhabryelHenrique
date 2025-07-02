@@ -20,7 +20,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 3. Faz o deploy do diretório 'dist' (que agora existe) para a branch 'output'
