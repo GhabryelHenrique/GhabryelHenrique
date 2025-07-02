@@ -9,21 +9,19 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    permissions: # Adicionado para garantir permissões de escrita
-      contents: write
     steps:
-      # Gera a animação da cobrinha
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: GhabryelHenrique
-          # Gera a animação e salva em dist/github-contribution-grid-snake.svg
-          # e também uma versão com o fundo escuro em dist/github-contribution-grid-snake-dark.svg
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          # Você pode adicionar uma versão para o tema escuro se quiser
-          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
+      # 1. Faz o checkout do seu repositório
+      - uses: actions/checkout@v4
 
-      # Faz o deploy do arquivo gerado para a branch 'output'
+      # 2. Gera a animação da cobrinha. Este passo CRIA o diretório 'dist'
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3. Faz o deploy do diretório 'dist' (que agora existe) para a branch 'output'
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
