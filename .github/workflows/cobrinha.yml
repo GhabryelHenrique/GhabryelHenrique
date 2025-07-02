@@ -9,6 +9,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # 1. Faz o checkout do seu repositório
       - uses: actions/checkout@v4
