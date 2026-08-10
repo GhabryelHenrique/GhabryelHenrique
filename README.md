@@ -41,9 +41,9 @@
   <a href="https://github.com/GhabryelHenrique">
       <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/GhabryelHenrique" target="_blank"></a>
   <a href="mailto:ghabryelhenrique@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ghabryelhenrique@gmail.com" target="_blank"></a>
-  <a href="https://www.instagram.com/ghabryel__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ghabryel-henrique-27298919a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ghabryelcode@gmail.com" target="_blank"></a>
+  <a href="https://www.instagram.com/ghabryel.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ghabryelhenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GhabryelHenrique/GhabryelHenrique/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
  
